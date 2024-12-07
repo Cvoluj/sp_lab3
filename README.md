@@ -7,3 +7,4 @@ Task: В порядку зростання вивести на екран ваг
 
 
 ![As we can see, after changing folder but calling same sciprt.sh nothing changed, so it's check only scpirt directory path](screen.PNG)
+As we can see, after changing folder but calling same sciprt.sh nothing changed, so it's check only scpirt directory path
