@@ -6,5 +6,5 @@ Task: В порядку зростання вивести на екран ваг
 в директорії знаходження скрипта.
 
 
-![As we can see, after changing folder but calling same sciprt.sh nothing changed, so it's check only scpirt directory path](screen.PNG)
-As we can see, after changing folder but calling same sciprt.sh nothing changed, so it's check only scpirt directory path
+![As we can see, after changing folder but calling same sciprt.sh nothing changed, so it's check only scpirt directory path](screen.PNG)<br>
+As we can see, after changing folder but calling same sciprt.sh nothing changed, so it's check only script directory path
